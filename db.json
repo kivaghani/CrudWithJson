@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Kartik",
+      "userCity": "New York",
+      "salary": "50000",
+      "mobile": "1234567890",
+      "profilePicture": "http://example.com/pic.jpg"
+    },
+    {
+      "id": 1730874059123,
+      "name": "Kartik",
+      "userCity": "Ahmedabad",
+      "salary": "400000",
+      "mobile": "9727571976",
+      "profilePicture": "blob:http://localhost:5173/af9915f3-c5de-49b3-8e20-5775dcfb8c89"
+    }
+  ]
+}
